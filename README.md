@@ -10,7 +10,7 @@ Este es un proyecto sencillo hecho con Vue 3 y Pinia, que permite gestionar una 
 
 
 ## Demo
-Puedes ver una demo del proyecto en [este enlace](https://vue3-juegos)
+Puedes ver una demo del proyecto en [este enlace](https://desafio-vuex.netlify.app/)
 
 ## Tecnologías
 
