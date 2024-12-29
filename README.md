@@ -25,17 +25,17 @@ Puedes ver una demo del proyecto en [este enlace](https://desafio-vuex.netlify.a
 
    ```bash
    git clone https://github.com/tu-usuario/nombre-del-repositorio.git
-```
+   ```
 2. Entra en el directorio del proyecto:
-```bash
-cd nombre-del-repositorio
-```
+   ```bash
+   cd nombre-del-repositorio
+   ```
 3. Instala las dependencias:
-```bash
-npm install
-```
+   ```bash
+   npm install
+   ```
 4. Inicia el servidor de desarrollo:
-```bash
-npm run dev
-```
+   ```bash
+   npm run dev
+   ```
 5. Abre tu navegador y ve a `http://localhost:5173` para ver la aplicación
